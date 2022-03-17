@@ -1,0 +1,17 @@
+{
+  "name": "miracle happens everyday",
+  "short_name": "miracle",
+  "start_url": "./",
+  "orientation": "any",
+  "theme_color": "#7067cf",
+  "background_color": "#fff",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
